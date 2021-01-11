@@ -1,0 +1,5 @@
+Pour initialiser (une seule fois): git init 
+pour ajouter les nouvelles modification a une version: git add . 
+pour commiter git commit -m"message du commit"
+pour lié le projet à un repo github; git remote add origin adresse-du-repo (une seule fois)
+pour envoyer sur github: git push -f origin master
